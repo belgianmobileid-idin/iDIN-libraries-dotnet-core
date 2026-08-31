@@ -5,7 +5,7 @@
     <DocumentationFile>BankId.Merchant.Library.xml</DocumentationFile>
     <Version>1.0.6</Version>
 	  <PackageId>iDIN.Merchant.Library</PackageId>
-	  <RepositoryUrl>https://github.com/Currence-Online/iDIN-libraries-dotnet-core</RepositoryUrl>
+	  <RepositoryUrl>https://github.com/belgianmobileid-idin/iDIN-libraries-dotnet-core</RepositoryUrl>
 	  <Authors>maxcode-devops-blue</Authors>
   </PropertyGroup>
 
